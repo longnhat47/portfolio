@@ -1,0 +1,12 @@
+{
+  "name": "alex-morgan-portfolio",
+  "version": "1.0.0",
+  "description": "Clean, modern responsive portfolio website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["portfolio", "website", "static"],
+  "author": "Alex Morgan",
+  "license": "MIT"
+}
