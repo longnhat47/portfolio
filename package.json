@@ -2,11 +2,17 @@
   "name": "alex-morgan-portfolio",
   "version": "1.0.0",
   "description": "Clean, modern responsive portfolio website",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js",
+    "check": "node --check index.js"
   },
-  "keywords": ["portfolio", "website", "static"],
+  "keywords": [
+    "portfolio",
+    "website",
+    "static",
+    "botkeep"
+  ],
   "author": "Alex Morgan",
   "license": "MIT"
 }
